@@ -8,7 +8,7 @@
 #------------- Librerías
 library(readxl) # Para leer datos en formato Excel
 
-#------------- Cargar la base de datos, disponible para descargar aquí:__
+#------------- Llamar la base de datos, disponible para descargar aquí:https://github.com/lesflores/anova_unidireccional/blob/main/datos_programa.xlsx
 data <- read_excel("datos_programa.xlsx")
 
 # Visualizar las primeras filas
